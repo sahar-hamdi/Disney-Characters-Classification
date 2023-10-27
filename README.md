@@ -3,22 +3,27 @@ Classification of Disney Characters using CNN
 
 Dataset: https://www.kaggle.com/datasets/sayehkargari/disney-characters-dataset
 
-# Introduction# 
+# Introduction:
 
 This repository contains the code and analysis for the Disney Characters Dataset Analysis and Classification using CNN project. 
 
 
-# Dependencies#
+# Dependencies:
 Python 
 
 Jupyter Notebook (to run the .ipynb notebook)
 
-** Libraries**:
-    * Pandas
-    * NumPy
-    * Matplotlib
-    * Pytorch
-    * math
+    Libraries:
+    
+      * Pandas
+      
+      * NumPy
+      
+      * Matplotlib
+      
+      * Pytorch
+      
+      * math
 
 
 # Usage :
