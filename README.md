@@ -21,7 +21,7 @@ Jupyter Notebook (to run the .ipynb notebook)
     * math
 
 
-# Usage :#
+# Usage :
 
     Open the Jupyter Notebook (https://github.com/sahar-hamdi/Disney-Characters-Classification/blob/main/classification-of-disney-characters.ipynb) to access the code and analysis. The notebook contains step-by-step explanations and code to perform the following tasks:
 
@@ -34,7 +34,7 @@ Jupyter Notebook (to run the .ipynb notebook)
 
     
 
-# Methods:#
+# Methods:
     The following methods are implemented in this project:
          * CNN Layers 
          * Linear Layers
@@ -46,7 +46,7 @@ Jupyter Notebook (to run the .ipynb notebook)
     - After the convolutional layers, the feature maps are flattened.
       Then, the flattened features are passed through the linear_layers to produce the final output.
 
-# Results:#
+# Results:
   Print the number of trained images and the Accuracy of the model, then tested the model to predict names of Some Dataset Characters 
   
   and the model predicted it Correctly.
