@@ -1,4 +1,9 @@
 # Disney-Characters-Classification
+
+
+![R](https://github.com/sahar-hamdi/Disney-Characters-Classification/assets/93557883/10e0b797-ebd2-4433-a0d0-b7a436b12f89)
+
+
 Classification of Disney Characters using CNN 
 
 Dataset: https://www.kaggle.com/datasets/sayehkargari/disney-characters-dataset
